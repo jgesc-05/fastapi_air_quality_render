@@ -18,6 +18,8 @@ Air Quality App una aplicación desarrollada por medio de Jetpack Compose (frame
 
 3. **Predicción del AQI PM2.5** : Esta pantalla posee deslizadores que permiten al usuario elegir la hora,el AQI PM10 y el AQI PM2.5, para que la aplicación prediga el AQI PM2.5, futuro. Ademas, da consejos sobre lo que debe hacer si existe esa calidad aérea, a parte de su categoría.
 
+4. **Detección de tipo de persona** : Esta pantalla permite a la persona, según algunas de sus características, detectar si es una persona muy sensible, medianamente sensible o muy poco sensible; esto, para que el resultado de las predicciones sea más entendible y se pueda interpretar mejor.
+
 **Observación**: El servidor se demora en responder, dado que es inactivo después de un tiempo.
 
 
