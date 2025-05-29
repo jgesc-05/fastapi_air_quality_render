@@ -81,3 +81,10 @@ Algunas mejoras a la aplicación podrían ser las siguientes, basadas en las fun
 La aplicación utiliza un modelo de inteligencia artificial (Random Forest) que, al recibir ciertos datos como entrada, predice el AQI (Índice de Calidad del Aire). En pocas palabras, se ingresan los parámetros y el modelo se encarga de calcular cómo está la calidad del aire.
 
 **EL CÓDIGO DE ANDROID STUDIO SE ENCUENTRA EN LA RAMA MASTER**
+*Cómo ejecutarlo (desde Android Studio)*:
+Es necesario seguir los siguientes pasos para acceder al código fuente de la app y ejecutarla (ya sea en el emulador de Android Studio o conectando un dispositivo a Android Studio):
+
+1. Descargar el archivo .ZIP de la rama Master
+2. Abrir en Android Studio (descomprimir antes, abrir la carpeta resultante)
+3. Ejecutar la aplicación (debe salir app en las opciones de ejecución del emulador).
+
