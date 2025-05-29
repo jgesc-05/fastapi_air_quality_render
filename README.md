@@ -80,3 +80,4 @@ Algunas mejoras a la aplicación podrían ser las siguientes, basadas en las fun
 *Nota: ¿Cómo funciona la predicción del AQI?*
 La aplicación utiliza un modelo de inteligencia artificial (Random Forest) que, al recibir ciertos datos como entrada, predice el AQI (Índice de Calidad del Aire). En pocas palabras, se ingresan los parámetros y el modelo se encarga de calcular cómo está la calidad del aire.
 
+**EL CÓDIGO DE ANDROID STUDIO SE ENCUENTRA EN LA RAMA MASTER**
