@@ -1,11 +1,11 @@
 
-# Air Quality App
+# AQI Prediction
 
 **Por**: Juan Guillermo Escobar Baez
 
-*El objetivo principal de la aplicación Air Quality App es brindar al deportista la información tanto presente como futura de calidad del aire, por medio de IA y demás elementos (descritos posteriormente)*
+*El objetivo principal de la aplicación AQI Prediction es brindar al deportista la información tanto presente como futura de calidad del aire, por medio de IA y demás elementos (descritos posteriormente)*
 
-# Un poco de Air Quality App
+# Un poco de AQI Prediction
 
 Air Quality App una aplicación desarrollada por medio de Jetpack Compose (framework de desarrollo moderno), con la cual se puede consultar el índice de calidad del aire tanto actualmente como en el futuro; se realiza por medio de parámetros como la hora y la concentración de PM10, que predicen EL AQI DE PM2.5, teniendo los valores deseados, para la toma de decisiones de calidad del aire. El proyecto fue realizado principalmente para deportistas, aunque cualquier persona que desee conocer la calidad aérea la puede consultar; cuenta con un mapa, una pantalla de predicción, y el AQI actual en la ciudad de Bucaramanga (por el momento, únicamente en esta); además, cuenta con un formulario para reconocer el tipo de persona que es.
 
